@@ -5,6 +5,7 @@
 <lastmod>2017-04-06T03:32:20-07:00</lastmod>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/welcome-to-jekyll0/</loc>
 <lastmod>2017-04-06T03:32:20-07:00</lastmod>
 </url>
@@ -45,6 +46,8 @@
 <lastmod>2017-04-06T03:32:20-07:00</lastmod>
 </url>
 <url>
+=======
+>>>>>>> Test
 <loc>http://localhost:4000/conference-on-javascript/</loc>
 <lastmod>2017-09-09T14:00:00-07:00</lastmod>
 </url>
@@ -61,6 +64,7 @@
 <lastmod>2017-09-11T14:00:00-07:00</lastmod>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/how-i-rest-from-dork/</loc>
 <lastmod>2017-09-12T03:32:20-07:00</lastmod>
 </url>
@@ -72,6 +76,24 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+=======
+<loc>http://localhost:4000/how-i-rest-from-work/</loc>
+<lastmod>2018-03-09T02:32:20-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/apply/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/post/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/postJob/</loc>
+</url>
+<url>
+>>>>>>> Test
 <loc>http://localhost:4000/tags/</loc>
 </url>
 </urlset>

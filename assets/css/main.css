@@ -1101,7 +1101,7 @@ footer .copyright {
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
-  min-height: 11rem;
+  min-height: 5rem;
   -webkit-border-radius: 10px;
           border-radius: 10px;
   overflow: hidden;
@@ -1123,7 +1123,7 @@ footer .copyright {
 .post .post-thumbnail {
   width: 30%;
   max-width: 100%;
-  min-height: 11rem;
+  min-height: 5rem;
   -webkit-background-size: cover;
           background-size: cover;
   background-position: 50% 50%;
@@ -1141,7 +1141,7 @@ footer .copyright {
 
 .post .post-content .post-title {
   margin: 0 0 10px;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 400;
 }
 
@@ -1153,6 +1153,7 @@ footer .copyright {
 
 .post .post-content p {
   margin-top: 0;
+  font-size: 11px;
 }
 
 a.older-posts, a.newer-posts {
@@ -1445,4 +1446,16 @@ a.newer-posts:hover {
   .post .post-content .post-title a {
     font-size: 21px;
   }
+}
+
+
+.new-job {
+  font-size: 35px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.new-job a{
+  text-decoration: none;
+  color: #00bd4f;
 }
