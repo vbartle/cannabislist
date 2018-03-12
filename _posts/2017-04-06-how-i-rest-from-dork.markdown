@@ -6,24 +6,79 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: i-rest.jpg # Add image post (optional)
 tags: [Holidays, Hawaii]
 ---
-Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents copper mug twee. Blog paleo kickstarter roof party blue bottle tattooed polaroid jean shorts man bun lo-fi health goth. Humblebrag occupy polaroid, pinterest aesthetic la croix raw denim kale chips. 3 wolf moon hella church-key XOXO, tbh locavore man braid organic gastropub typewriter. Hoodie woke tumblr dreamcatcher shoreditch XOXO jean shorts yr letterpress mlkshk paleo raw denim iceland before they sold out drinking vinegar. Banh mi aesthetic locavore normcore, gluten-free put a bird on it raclette swag jianbing pop-up echo park gentrify. Stumptown brooklyn godard tumeric ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
 
-## Plaid ramps kitsch woke pork belly
-90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
+## Job Description
+<div class="apply-button">Apply Here</div>
+West Coast Apply is a private organization that works in collaboration with government agencies to promote emerging careers. Our goal is to connect you with supportive resources to supplement your skills in order to attain your dream career.
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+Location: Oakland / NorCal
 
-Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
+Type: Part-Time with transition to Full-Time
 
->Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
+We are adding a Mobile Account Consultant (MAC) to our team of cannabis experts. The role is a hybrid of the delivery driver and customer service responsibilities. Our MAC’s are the main source of interaction with our accounts and what makes VCC Brands a standout from other services. We pride ourselves as the number one customer service-oriented cannabis brand in California.
 
-Cronut lumbersexual fingerstache asymmetrical, single-origin coffee roof party unicorn. Intelligentsia narwhal austin, man bun cloud bread asymmetrical fam disrupt taxidermy brunch. Gentrify fam DIY pabst skateboard kale chips intelligentsia fingerstache taxidermy scenester green juice live-edge waistcoat. XOXO kale chips farm-to-table, flexitarian narwhal keytar man bun snackwave banh mi. Semiotics pickled taiyaki cliche cold-pressed. Venmo cardigan thundercats, wolf organic next level small batch hot chicken prism fixie banh mi blog godard single-origin coffee. Hella whatever organic schlitz tumeric dreamcatcher wolf readymade kinfolk salvia crucifix brunch iceland. Literally meditation four loko trust fund. Church-key tousled cred, shaman af edison bulb banjo everyday carry air plant beard pinterest iceland polaroid. Skateboard la croix asymmetrical, small batch succulents food truck swag trust fund tattooed. Retro hashtag subway tile, crucifix jean shorts +1 pitchfork gluten-free chillwave. Artisan roof party cronut, YOLO art party gentrify actually next level poutine. Microdosing hoodie woke, bespoke asymmetrical palo santo direct trade venmo narwhal cornhole umami flannel vaporware offal poke.
+About VCC Brands
 
-* Hexagon shoreditch beard
-* Intelligentsia narwhal austin
-* Literally meditation four
-* Microdosing hoodie woke
+Our company is a pioneer in the medical cannabis industry, creating the first cannabis brand that embraces Californian values and a small farmer ecosystem. VCC Brands creates a world where cannabis is consumed in a spirit of wellness, freedom and fun. We are committed to collaborating with other industry leaders, researchers, regulators and policy makers to create a thriving cannabis industry that benefits everyone. We make all of our products with whole plant extracts from sustainable sun-grown cannabis and lab test every batch to ensure consistent potency and patient safety. Our values are simple; respect for all, cherish the land, and radiate positive energy.
 
-Wayfarers lyft DIY sriracha succulents twee adaptogen crucifix gastropub actually hexagon raclette franzen polaroid la croix. Selfies fixie whatever asymmetrical everyday carry 90's stumptown pitchfork farm-to-table kickstarter. Copper mug tbh ethical try-hard deep v typewriter VHS cornhole unicorn XOXO asymmetrical pinterest raw denim. Skateboard small batch man bun polaroid neutra. Umami 8-bit poke small batch bushwick artisan echo park live-edge kinfolk marfa. Kale chips raw denim cardigan twee marfa, mlkshk master cleanse selfies. Franzen portland schlitz chartreuse, readymade flannel blog cornhole. Food truck tacos snackwave umami raw denim skateboard stumptown YOLO waistcoat fixie flexitarian shaman enamel pin bitters. Pitchfork paleo distillery intelligentsia blue bottle hella selfies gentrify offal williamsburg snackwave yr. Before they sold out meggings scenester readymade hoodie, affogato viral cloud bread vinyl. Thundercats man bun sriracha, neutra swag knausgaard jean shorts. Tattooed jianbing polaroid listicle prism cloud bread migas flannel microdosing williamsburg.
+Why Join VCC Brands?
 
-Echo park try-hard irony tbh vegan pok pok. Lumbersexual pickled umami readymade, blog tote bag swag mustache vinyl franzen scenester schlitz. Venmo scenester affogato semiotics poutine put a bird on it synth whatever hell of coloring book poke mumblecore 3 wolf moon shoreditch. Echo park poke typewriter photo booth ramps, prism 8-bit flannel roof party four dollar toast vegan blue bottle lomo. Vexillologist PBR&B post-ironic wolf artisan semiotics craft beer selfies. Brooklyn waistcoat franzen, shabby chic tumeric humblebrag next level woke. Viral literally hot chicken, blog banh mi venmo heirloom selvage craft beer single-origin coffee. Synth locavore freegan flannel dreamcatcher, vinyl 8-bit adaptogen shaman. Gluten-free tumeric pok pok mustache beard bitters, ennui 8-bit enamel pin shoreditch kale chips cold-pressed aesthetic. Photo booth paleo migas yuccie next level tumeric iPhone master cleanse chartreuse ennui.
+You’ve probably heard cannabis will be a $40+ billion industry by as early as 2020. While it is no doubt there is enormous market potential, more importantly, the VCC Brands team sees an incredible opportunity to shape the future of an entire industry.
+
+Through a values-driven approach and a regulated market, we have the chance to break down prohibition stigmas to show that cannabis can play an emerging role in treating many common medical conditions, as well as provide important tax and societal benefits. We also believe in the opportunity to build an agricultural model centered around small, independent farmers which could be replicated around the world. If this gets you excited, too, we encourage you to inquire about a career with VCC Brands.
+
+Benefits
+• Competitive pay
+• Exciting, fun and casual work environment
+• Product knowledge education
+• Generous discount
+• Company vehicle used for deliveries
+
+Responsibilities
+• Deliver orders to qualified retail accounts throughout Northern California
+• Refer point of sale issues with accounts to our Customer Service Dept
+• Merchandise and restock retail accounts
+• Be a problem solver — handle customer service issues promptly and appropriately
+• Plan and execute routes as needed
+• Accurately manage inventory and cash
+• Help out in the office/warehouse as needed
+• Maintain cleanliness of company vehicle
+
+Requirements
+• Clean DMV Record
+• Honest and trustworthy
+• Punctual and reliable
+• Experience in a retail or delivery environment
+• Professional appearance and attitude
+• Knowledge of cannabis and cannabis strains
+• Ability to self-manage and efficiently execute tasks
+• Team player — willing to wear multiple hats and help where needed
+• Strong math skills
+• Tech savvy and owns a smartphone capable of GPS
+• Consumer packaged good and merchandising experience (desired)
+• Bilingual a bonus (desired)
+
+Physical Requirements
+• Driver may be required to lift up to 50 pounds and move up and down stairs as needed.
+• Prolonged sitting/driving in a car may be required.
+
+Legal Requirements
+• 21+ Years of age
+• Pass background check
+• Valid driver’s license with less than two points
+• Valid California doctor’s medical cannabis recommendation
+• No DUIs or felonies
+
+Compensation
+• Depends on Experience (DOE)
+
+Schedule
+• Part time growing to Full Time. Schedule will be based on team and customer demand. May include evening or weekend hours, with occasional overnight trips. Typical start time is 9 AM.
+
+VCC Brands is a sober work environment and is an equal employment opportunity employer, considering all applicants without regard to race, color, religion, gender, national origin, age, or varying abilities. We value diversity and promote respect for all people.
+
+Company Description
+
+Why Join VCC Brands? You’ve probably heard cannabis will be a $40+ billion industry by as early as 2020. While it is no doubt there is enormous market potential, more importantly, the VCC Brands team sees an incredible opportunity to shape the future of an entire industry.Through a values-driven approach and a regulated market, we have the chance to break down prohibition stigmas to show that cannabis can play an emerging role in treating many common medical conditions, as well as provide important tax and societal benefits. We also believe in the opportunity to build an agricultural model centered around small, independent farmers which could be replicated around the world. If this gets you excited, too, we encourage you to inquire about a career with VCC Brands
+
+<div class="apply button">Apply Here</div>
